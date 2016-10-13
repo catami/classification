@@ -1,6 +1,4 @@
 # classification
-The CATAMI Classification Scheme Documentation.
-
 The CATAMI Classification Scheme is enabling aggregation, annotation and automated processing of underwater imagery from across Australia.
 
 The following documentation will provide you information to get started using CATAMI classification 
@@ -10,12 +8,12 @@ The following documentation will provide you information to get started using CA
 All CATAMI codes with visual examples selected by expert marine ecologists from around Australia.
 (https://data.pawsey.org.au/public/?path=/WA%20Node%20Ocean%20Data%20Network/AODN/catami/CATAMI%20class_PDFGuide_V4_20141218.pdf)
 
-2. CATAMI code file
+2) CATAMI code file
 
 The CATAMI CAAB codes in a spreadsheet (CSV) for you to use. You can use this to develop your own conversion tables.
 (https://data.pawsey.org.au/public/?path=/WA%20Node%20Ocean%20Data%20Network/AODN/catami/catami-caab-codes_1.4.csv)
 
-3. CATAMI Technical Document
+3) CATAMI Technical Document
 
 The main document that describes the CATAMI Classification Scheme. All the detail on the creation and organisation of the CATAMI classification scheme.
 (https://data.pawsey.org.au/public/?path=/WA%20Node%20Ocean%20Data%20Network/AODN/catami/CATAMI_Classification_Scheme_v1.4_Technical_document.pdf)
