@@ -1,5 +1,5 @@
 # classification
-The CATAMI Classification Scheme is enabling aggregation, annotation and automated processing of underwater imagery from across Australia.
+The CATAMI Classification Scheme is enabling aggregation, annotation and automated processing of underwater imagery from across Australia.  Further information and citation of the classification can be found at the following PLoS One journal article - http://dx.doi.org/10.1371/journal.pone.0141039
 
 The following documentation will provide you information to get started using CATAMI classification 
 
