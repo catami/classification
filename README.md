@@ -17,3 +17,5 @@ The CATAMI CAAB codes in a spreadsheet (CSV) for you to use. You can use this to
 
 The main document that describes the CATAMI Classification Scheme. All the detail on the creation and organisation of the CATAMI classification scheme.
 (https://data.pawsey.org.au/public/?path=/WA%20Node%20Ocean%20Data%20Network/AODN/catami/CATAMI_Classification_Scheme_v1.4_Technical_document.pdf)
+
+Also check out the poster that NERP / NESP put together on the CATAMI classification scheme - http://www.nespmarine.edu.au/document/putting-names-sea-faces-standardising-flora-and-fauna-classification-australian-marine
